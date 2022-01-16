@@ -1,0 +1,15 @@
+{
+	"version": "0.1",
+	"description": "DSite one page website & content Management",
+	"name": "DSite/Website-Application",
+	"type": "Website",
+	"homepage": "#",
+	"license": "DNet",
+	"support": {
+		"forum": "#",
+		"source": "#"
+	},
+	"Platform": {
+		"Codeigniter": "3"	
+	}
+}

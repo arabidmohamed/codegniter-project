@@ -1,0 +1,18 @@
+{
+	"emptyTable":    "عفواً لم يتم العثور على نتائج",
+    "sProcessing":   "جاري التحميل",
+    "sLengthMenu":   "عرض _MENU_ مدخلات",
+    "sZeroRecords":  "لم يتم العثور على آي بيانات",
+    "sInfo":         "عرض _START_ إلى _END_ من أصل _TOTAL_ مدخل",
+    "sInfoEmpty":    "يعرض 0 إلى 0 من أصل 0 سجل",
+    "sInfoFiltered": "(منتقاة من مجموع _MAX_ مدخل)",
+    "sInfoPostFix":  "",
+    "searchPlaceholder":       "بحث",
+    "sUrl":          "الرابط",
+    "oPaginate": {
+        "sFirst":    "الأول",
+        "sPrevious": " السابق ",
+        "sNext":     " التالي ",
+        "sLast":     "الأخير"
+    }
+}

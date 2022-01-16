@@ -1,0 +1,350 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-06-23 07:45:04 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:45:04 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:45:04 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:45:04 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:45:04 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:45:04 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:45:04 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:45:04 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:45:04 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:45:04 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:45:04 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:45:04 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:45:04 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:45:04 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:45:04 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:45:04 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:45:04 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:45:04 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:45:10 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:45:11 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 07:45:12 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:54:16 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 07:54:16 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:02:56 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:02:56 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:03:34 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:03:34 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:03:41 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:03:41 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:05:12 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:05:13 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:05:39 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:05:39 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:05:59 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:05:59 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:14:15 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:14:15 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:14:18 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:14:19 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:14:37 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:14:38 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:15:23 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:15:23 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:15:23 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:15:23 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:15:23 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:15:23 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:15:23 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:15:23 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:15:24 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:15:24 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:15:24 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:15:24 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:15:24 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:15:24 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:15:24 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:15:24 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:15:24 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:15:24 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:16:56 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:26:24 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:26:25 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:26:41 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:26:42 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:26:55 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:26:55 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:27:00 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:27:01 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:27:04 --> Severity: error --> Exception: syntax error, unexpected 'redirect' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) C:\wamp64\www\dnet.sa\application\modules\acp\controllers\Customers.php 68
+ERROR - 2021-06-23 08:28:41 --> Severity: 8192 --> strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior C:\wamp64\www\dnet.sa\application\third_party\MX\Router.php 239
+ERROR - 2021-06-23 08:28:41 --> Severity: error --> Exception: syntax error, unexpected 'redirect' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) C:\wamp64\www\dnet.sa\application\modules\acp\controllers\Customers.php 68
+ERROR - 2021-06-23 08:28:59 --> Severity: 8192 --> strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior C:\wamp64\www\dnet.sa\application\third_party\MX\Router.php 239
+ERROR - 2021-06-23 08:28:59 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\wamp64\www\dnet.sa\application\modules\acp\controllers\Base_Controller.php 49
+ERROR - 2021-06-23 08:28:59 --> 404 Page Not Found: 
+ERROR - 2021-06-23 08:29:00 --> Severity: 8192 --> strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior C:\wamp64\www\dnet.sa\application\third_party\MX\Router.php 239
+ERROR - 2021-06-23 08:29:00 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\wamp64\www\dnet.sa\application\modules\acp\controllers\Base_Controller.php 49
+ERROR - 2021-06-23 08:29:00 --> 404 Page Not Found: 
+ERROR - 2021-06-23 08:29:14 --> Severity: 8192 --> strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior C:\wamp64\www\dnet.sa\application\third_party\MX\Router.php 239
+ERROR - 2021-06-23 08:29:14 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\wamp64\www\dnet.sa\application\modules\acp\controllers\Base_Controller.php 49
+ERROR - 2021-06-23 08:31:29 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:31:30 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:31:34 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:31:34 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:36:24 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:36:25 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:36:29 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:36:29 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:36:37 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:36:37 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:36:42 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:36:42 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:47:24 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:47:24 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:47:30 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:47:30 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:47:36 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:47:37 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:47:42 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:47:43 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:47:47 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:47:47 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:51:37 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:51:37 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:51:57 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:51:57 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:52:00 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:52:01 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:52:03 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:52:03 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:52:18 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:52:18 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:56:30 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:56:30 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:56:35 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:56:35 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 08:58:09 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 08:58:10 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:00:16 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 09:00:17 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:00:19 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 09:00:20 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:00:26 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 09:00:27 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:17:03 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 09:17:03 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:25:28 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:26:46 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:27:13 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 09:27:14 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:37:19 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 09:37:20 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:37:24 --> Severity: error --> Exception: Unable to locate the model you have specified: Domains_model C:\wamp64\www\dnet.sa\system\core\Loader.php 344
+ERROR - 2021-06-23 09:37:49 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 09:37:50 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:40:35 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 09:40:35 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:40:41 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 09:40:42 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:40:47 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 09:40:47 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:40:49 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 09:40:50 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:40:53 --> Severity: error --> Exception: Call to undefined method Customers_model::deleteCustomer() C:\wamp64\www\dnet.sa\application\modules\acp\controllers\Customers.php 65
+ERROR - 2021-06-23 09:41:32 --> Severity: error --> Exception: Call to undefined method Customers_model::deleteCustomer() C:\wamp64\www\dnet.sa\application\modules\acp\controllers\Customers.php 66
+ERROR - 2021-06-23 09:42:34 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 09:42:34 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:42:39 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 09:42:39 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:42:42 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 09:42:42 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:42:46 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 09:42:47 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:42:50 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 09:42:50 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:45:39 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 09:45:39 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:45:43 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 09:45:43 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:45:46 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 09:45:46 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:45:50 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 09:45:51 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 09:45:58 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\dnet.sa\application\modules\customer\controllers\Customer.php 65
+ERROR - 2021-06-23 09:46:09 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\dnet.sa\application\modules\customer\controllers\Customer.php 65
+ERROR - 2021-06-23 09:46:33 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\dnet.sa\application\modules\customer\controllers\Customer.php 65
+ERROR - 2021-06-23 09:46:51 --> Severity: 8192 --> strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior C:\wamp64\www\dnet.sa\application\third_party\MX\Router.php 239
+ERROR - 2021-06-23 09:46:51 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\dnet.sa\application\modules\customer\controllers\Customer.php 65
+ERROR - 2021-06-23 10:00:44 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:00:45 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 10:00:45 --> Severity: error --> Exception: Too few arguments to function Datatable::getDomainsByCustomerID_GET(), 0 passed in C:\wamp64\www\dnet.sa\application\modules\acp\controllers\Base_Controller.php on line 93 and exactly 1 expected C:\wamp64\www\dnet.sa\application\modules\acp\controllers\Datatable.php 641
+ERROR - 2021-06-23 10:00:45 --> Severity: error --> Exception: Too few arguments to function Datatable::getOrdersByCustomerID_GET(), 0 passed in C:\wamp64\www\dnet.sa\application\modules\acp\controllers\Base_Controller.php on line 93 and exactly 1 expected C:\wamp64\www\dnet.sa\application\modules\acp\controllers\Datatable.php 705
+ERROR - 2021-06-23 10:01:12 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:01:13 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 10:01:13 --> Severity: error --> Exception: Too few arguments to function Datatable::getDomainsByCustomerID_GET(), 0 passed in C:\wamp64\www\dnet.sa\application\modules\acp\controllers\Base_Controller.php on line 93 and exactly 1 expected C:\wamp64\www\dnet.sa\application\modules\acp\controllers\Datatable.php 641
+ERROR - 2021-06-23 10:01:13 --> Severity: error --> Exception: Too few arguments to function Datatable::getOrdersByCustomerID_GET(), 0 passed in C:\wamp64\www\dnet.sa\application\modules\acp\controllers\Base_Controller.php on line 93 and exactly 1 expected C:\wamp64\www\dnet.sa\application\modules\acp\controllers\Datatable.php 705
+ERROR - 2021-06-23 10:02:51 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:02:52 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 10:05:34 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:05:35 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 10:07:10 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:07:10 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:07:10 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:07:10 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:07:10 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:07:10 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:07:10 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:07:10 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:07:10 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:07:10 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:07:10 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:07:10 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:07:10 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:07:11 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:07:11 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:07:11 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:07:11 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:07:11 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:11:05 --> Severity: error --> Exception: Call to a member function deleteCustomer() on null C:\wamp64\www\dnet.sa\application\modules\customer\controllers\Customer.php 79
+ERROR - 2021-06-23 10:14:59 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:14:59 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 10:15:01 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:15:01 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 10:15:05 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:15:05 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 10:15:08 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:15:08 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 10:15:17 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:15:17 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 10:15:21 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:15:21 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 10:15:25 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:15:25 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 10:15:31 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:15:31 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 10:28:43 --> 404 Page Not Found: 
+ERROR - 2021-06-23 10:28:43 --> 404 Page Not Found: 
+ERROR - 2021-06-23 10:28:57 --> 404 Page Not Found: 
+ERROR - 2021-06-23 10:28:57 --> 404 Page Not Found: 
+ERROR - 2021-06-23 10:31:15 --> 404 Page Not Found: 
+ERROR - 2021-06-23 10:31:16 --> 404 Page Not Found: 
+ERROR - 2021-06-23 10:34:39 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:34:39 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:34:40 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:34:40 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:34:40 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:34:40 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:34:40 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:34:40 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:34:40 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:34:40 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:34:40 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:34:40 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:34:40 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:34:40 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:34:40 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:34:40 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:34:40 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:34:40 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:16 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:16 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:16 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:16 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:16 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:16 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:16 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:16 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:16 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:16 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:16 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:16 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:16 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:17 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:17 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:17 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:17 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:17 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:20 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:20 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:20 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:20 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:20 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:20 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:20 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:20 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:20 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:20 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:20 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:20 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:20 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:20 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:20 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:20 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:21 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:43:21 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:45:08 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:45:08 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:45:08 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:45:09 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:45:09 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:45:09 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:45:09 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:45:09 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:45:09 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:45:09 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:45:09 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:45:09 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:45:09 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:45:09 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:45:09 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:45:09 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:45:09 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:45:09 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 10:58:49 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 11:35:48 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 11:41:12 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 11:41:12 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 11:41:12 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 11:41:12 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 11:41:12 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 11:41:12 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 11:41:12 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 11:41:12 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 11:41:12 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 11:41:13 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 11:41:13 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 11:41:13 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 11:41:13 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 11:41:13 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 11:41:13 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 11:41:13 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 11:41:13 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 11:41:13 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 11:44:28 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 11:46:45 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 11:54:24 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 11:54:26 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 11:54:39 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 12:13:15 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 12:13:33 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 12:14:51 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 12:17:15 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 12:21:40 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 12:44:45 --> Query error: Unknown column 'Period' in 'field list' - Invalid query: UPDATE `domains_orders` SET `Period` = NULL
+WHERE `DO_ID` = '8'
+ERROR - 2021-06-23 13:08:19 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 13:08:25 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 13:23:17 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 13:23:17 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 13:23:38 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 13:24:41 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 13:25:38 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 13:25:52 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 13:27:17 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 13:27:19 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 13:27:19 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 13:28:28 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 13:28:28 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 13:29:45 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 13:29:46 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 13:36:33 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 13:36:34 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 13:36:45 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 13:36:46 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 13:37:55 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 13:38:02 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 13:38:03 --> 404 Page Not Found: /index
+ERROR - 2021-06-23 13:38:57 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
+ERROR - 2021-06-23 13:39:47 --> 404 Page Not Found: ../modules/site/controllers/Site/products_rm
